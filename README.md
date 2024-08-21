@@ -1,4 +1,4 @@
-**# Interactive_Story_Generator**
+**Interactive_Story_Generator**
 Python-based Interactive Story Generator using LSTM networks for collaborative AI-human storytelling. Features include story continuation based on user input and p5.js integration. Implemented in Google Colab, perfect for exploring creative writing with AI assistance.
 
 **Features**
@@ -45,4 +45,5 @@ This project is open source and available under the MIT License.
 
 **Contact**
 Mayline - maylinelovesart@gmail.com
+
 Project Link: https://github.com/yourusername/interactive-story-generatorLast edited 7 minutes ago
