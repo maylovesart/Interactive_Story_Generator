@@ -24,7 +24,7 @@ To use the model in p5.js, use the export_model_for_p5js() function and incorpor
 
 Example Output
 
-CopyHuman: Once upon a time
+Human: Once upon a time
 AI: Once upon a time in a land far away, there lived a brave knight who
 Human: encountered a dragon
 AI: encountered a dragon. The dragon's scales shimmered in the sunlight as it
